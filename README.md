@@ -1,10 +1,4 @@
-# HYPY - HYper-v in PYthon
-
-[![Build Status](https://travis-ci.org/avanzzzi/hypy.svg?branch=master)](https://travis-ci.org/avanzzzi/hypy)
-[![Build status](https://gitlab.com/gabriel.avanzi/hypy/badges/master/build.svg)](https://gitlab.com/gabriel.avanzi/hypy/pipelines)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2d6d147eedc0403195262e6041537eb3)](https://www.codacy.com/app/avanzzzi/hypy?utm_source=github.com&utm_medium=referral&utm_content=avanzzzi/hypy&utm_campaign=badger)
-
-Multiplatform Hyper-V Manager using Python and FreeRDP
+# Multiplatform Hyper-V Manager using Python and FreeRDP
 
 ## How hypy works?
 Hypy uses winrm or ssh to comunicate with hyper-v server shell and sends powershell commands to interact with the virtual machines. To access the virtual machines, hypy uses freeRDP.
