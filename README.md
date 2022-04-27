@@ -34,7 +34,7 @@ pip3 install hypy3
 ```
 Using github package:
 ```
-pip3 install git+https://github.com/avanzzzi/hypy.git
+pip3 install git+https://github.com/yilmazchef/hypy.git
 ```
 
 ## Configuration
@@ -88,7 +88,7 @@ Commands:
 ```
 
 If you need help on any subcommand, run `hypy.py COMMAND --help`.
-Further details on subcommands: https://github.com/avanzzzi/hypy/wiki
+Further details on subcommands: https://github.com/yilmazchef/hypy
 
 ## tests
 A tox.ini file is included for execution of style check and unit tests.
